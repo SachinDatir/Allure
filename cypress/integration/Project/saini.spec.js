@@ -13,6 +13,7 @@ describe('verify the functionality of saini tours and travels', () => {
         cy.get('input[name="customerEmail"]').type('sdatir83@gmail.com')
         cy.get('select[name="gender"]').select('Male')
         cy.get('div[class="pass-details-save"]').click()
+        // dsfkf;f
     })
 })
 
